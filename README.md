@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer with experience in languages PHP, Javascript, NodeJS, MySQL.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">in/omar-rivas-4047a0125
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
