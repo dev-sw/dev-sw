@@ -14,37 +14,49 @@
 </ul>
 
 <h2 align="left">Skills</h2>
-<h3>Backend Development</h3>
+<ul>
+  <li><h3>Backend Development</h3></li>
+</ul>
 <p>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
-<h3>Frontend Development</h3>
+<ul>
+  <li><h3>Frontend Development</h3></li>
+</ul>
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
-<h3>Database</h3>
+<ul>
+  <li><h3>Database</h3></li>
+</ul>
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="8%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql")></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
-<h3>Devops</h3>
+<ul>
+  <li><h3>Devops</h3></li>
+</ul>
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
-<h3>Framework</h3>
+<ul>
+  <li><h3>Framework</h3></li>
+</ul>
 <p>
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 </p>
-<h3>Other</h3>
+<ul>
+  <li><h3>Other</h3></li>
+</ul>
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
