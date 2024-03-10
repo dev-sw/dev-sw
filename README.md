@@ -51,6 +51,7 @@
   <li><h3>Framework</h3></li>
 </ul>
 <p>
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/laravel.svg"></code>
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 </p>
