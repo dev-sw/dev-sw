@@ -30,7 +30,7 @@
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 </p>
 <ul>
   <li><h3>Database</h3></li>
@@ -52,7 +52,7 @@
   <li><h3>Framework</h3></li>
 </ul>
 <p>
-  <code><img width="6%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 </p>
