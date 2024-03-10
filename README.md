@@ -37,14 +37,14 @@
 </ul>
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="8%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql")></code>
+  <code><img width="7%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql")></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 <ul>
   <li><h3>Devops</h3></li>
 </ul>
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
 <ul>
@@ -53,7 +53,7 @@
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
 </p>
 <ul>
