@@ -37,8 +37,8 @@
 </ul>
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="7%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="background-color: rgba(0, 0, 0, 0.5)"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" style="background-color: #FFFFFF"></code>
+  <code><img width="7%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 <ul>
   <li><h3>Devops</h3></li>
