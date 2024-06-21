@@ -38,7 +38,7 @@
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="7%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql")></code>
-  <!--<code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>-->
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" style="background-color: rgba(0, 0, 0, 0.5)"></code>
   <code><img width="10%" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 </p>
 <ul>
