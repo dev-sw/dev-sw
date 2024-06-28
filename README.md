@@ -12,7 +12,7 @@
   <li>Always attentive to details, I like to work with clean code.</li>
   <li>I value teamwork and have the ability to integrate into already established work groups.</li>
   <li>+2.5 years in web development.</li>
-  <li><a href="https://www.linkedin.com/in/omar-rivas-4047a0125/">[LinkedIn]</a></li>
+  <li><a href="https://www.linkedin.com/in/omar-rivas-4047a0125/" target="_blank">[LinkedIn]</a></li>
 </ul>
 
 <h3 align="left">Skills</h3>
