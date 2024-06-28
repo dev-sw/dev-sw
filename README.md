@@ -1,4 +1,5 @@
-<h1 align="center"> 👋 Backend Engineer | PHP | NodeJS | VueJS<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center"> 👋 My name is Omar Rivas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h3 align="center"> Backend Engineer | PHP | NodeJS | VueJS </h3>
 <div align="center">
   <img height="300px" width="450px" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"> 
 </div>
@@ -11,6 +12,7 @@
   <li>Always attentive to details, I like to work with clean code.</li>
   <li>I value teamwork and have the ability to integrate into already established work groups.</li>
   <li>+2.5 years in web development.</li>
+  <li>[LinkedIn](https://www.linkedin.com/in/omar-rivas-4047a0125/)</li>
 </ul>
 
 <h2 align="left">Skills</h2>
