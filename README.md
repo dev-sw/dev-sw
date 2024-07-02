@@ -1,5 +1,5 @@
-<h2 align="center"> 👋 My name is Omar Rivas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
-<h4 align="center"> Backend Engineer | PHP | NodeJS | VueJS </h4>
+<h2 align="center"> Omar Rivas</h2>
+<h4 align="center"> Backend Engineer | PHP | NodeJS | VueJS</h4>
 <div align="center">
   <img height="300px" width="450px" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"> 
 </div>
