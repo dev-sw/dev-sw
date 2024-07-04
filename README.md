@@ -1,5 +1,5 @@
 <h2 align="center"> Omar Rivas</h2>
-<p align="center">Backend Engineer | PHP | NodeJS | VueJS</p>
+<p align="center">Software Engineer | Backend | PHP | NodeJS | VueJS</p>
 <div align="center">
   <img height="300px" width="450px" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"> 
 </div>
